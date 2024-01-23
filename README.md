@@ -9,6 +9,11 @@ To run your own backend:
  - Clone this repository https://github.com/steve-community/steve
  - docker compose up
 
+Install golang:
+ - MacOS: brew install golang
+ - Debian: apt-get install golang-go -y
+ - Windows: [download](https://go.dev/dl/go1.21.6.windows-amd64.msi) and install
+
 
 Run the sample code:
  - cd ocpp-client
